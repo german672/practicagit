@@ -15,3 +15,16 @@ site:
           default: true
           content:
             directory: ./docs
+    - type: section
+      key: section-2
+      title: DOCUMENTACION FINAL2
+      path: documentacion-final2
+      children:
+        - type: space
+          key: space-2
+          title: DOCUMENTACION FINAL
+          path: documentacion-final
+          default: true
+          draft: true
+          content:
+            directory: ./docs
