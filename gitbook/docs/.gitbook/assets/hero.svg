@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<rect width="1200" height="420" rx="28" fill="#f4f7fb"/>
+<text x="70" y="95" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#172033">SQL Server Agent</text>
+<text x="70" y="145" font-family="Arial, sans-serif" font-size="24" fill="#46546b">Manual de uso · Grupo 4 · SQL Server 2025 Developer + SSMS 22</text>
+<g font-family="Arial, sans-serif">
+<rect x="70" y="210" width="220" height="90" rx="16" fill="#fff" stroke="#c8d2e1"/>
+<text x="180" y="250" text-anchor="middle" font-size="20" font-weight="700">Job</text><text x="180" y="278" text-anchor="middle" font-size="15">trabajo automatizado</text>
+<rect x="350" y="210" width="220" height="90" rx="16" fill="#fff" stroke="#c8d2e1"/>
+<text x="460" y="250" text-anchor="middle" font-size="20" font-weight="700">Steps</text><text x="460" y="278" text-anchor="middle" font-size="15">acciones en secuencia</text>
+<rect x="630" y="210" width="220" height="90" rx="16" fill="#fff" stroke="#c8d2e1"/>
+<text x="740" y="250" text-anchor="middle" font-size="20" font-weight="700">Schedule</text><text x="740" y="278" text-anchor="middle" font-size="15">cuándo se ejecuta</text>
+<rect x="910" y="210" width="220" height="90" rx="16" fill="#fff" stroke="#c8d2e1"/>
+<text x="1020" y="250" text-anchor="middle" font-size="20" font-weight="700">Evidencia</text><text x="1020" y="278" text-anchor="middle" font-size="15">monitor, .bak, history</text>
+</g></svg>
