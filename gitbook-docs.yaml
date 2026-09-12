@@ -2,10 +2,29 @@ $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: DOCUMENTACION
   structure:
-    - type: space
-      key: space-1
-      title: DOCUMENTACION FINAL
-      path: documentacion-final
+    - type: section
+      key: section-1
+      title: DOCUMENTACION
+      path: documentacion
       default: true
-      content:
-        directory: ./docs
+      children:
+        - type: space
+          key: space-1
+          title: DOCUMENTACION FINAL
+          path: documentacion-final
+          default: true
+          content:
+            directory: ./docs
+    - type: section
+      key: section-2
+      title: Documentacion 2
+      path: documentacion-2
+      children:
+        - type: space
+          key: space-2
+          title: Documentacion 2
+          path: documentacion-2
+          default: true
+          draft: true
+          content:
+            directory: ./documentacion-2
